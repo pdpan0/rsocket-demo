@@ -1,2 +1,4 @@
 rootProject.name = 'rsocket-demo'
 
+include("rsocket-client")
+include("rsocket-server")
